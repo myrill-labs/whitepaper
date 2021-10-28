@@ -23,7 +23,7 @@ Nicolas Carrara is a postdoctoral researcher at the University of Toronto specia
 </a>
 
 
-Bachir Arif is tech lead at the Société Générale and has research experience in [blockchains](https://en.wikipedia.org/wiki/Blockchain), especially with crypto-currencies. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. While being at Deloitte, he developed multiples [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp) around the blockchain and DeFi.
+Bachir Arif is tech lead at the Société Générale. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. At [LIST](https://www.list.lu/) he did research on [blockchains](https://en.wikipedia.org/wiki/Blockchain), especially in crypto-currencies. While being at Deloitte, he developed multiples [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp).
 
 We both bring to the company a combination of cutting edge technologies and domain expertise in order to design the perfect fintech product, with an extremely high barrier of entry (ML and blockchain).
   
