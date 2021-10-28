@@ -19,7 +19,7 @@ Nicolas Carrara is a postdoctoral researcher at the University of Toronto specia
 </div> 
 
 
-Bachir Arif a is tech lead at the Société Générale and has research experience in [blockchain](https://en.wikipedia.org/wiki/Blockchain), especially with crypto-currencies. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. 
+Bachir Arif is tech lead at the Société Générale and has research experience in [blockchain](https://en.wikipedia.org/wiki/Blockchain), especially with crypto-currencies. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. 
 
 We both bring to the company a combination of cutting edge technologies and domain expertise in order to design the perfect fintech product, with an extremely high barrier of entry (ML and blockchain).
   
@@ -61,18 +61,17 @@ Our architecture supports market-making (providing liquidity, i.e. enough instru
 
 ### Blockchain certification
 
-Once a bot has been designed and trained, we associate a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) to it. We call it Myrmidon. We develop a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp) to manage and store this data. The DApps interacts with the [Solana](https://solana.com/) blockchain, and we are working exclusively with the smart contracts to guarantee a verified data.
-The NFT certifies several properties of the bot: 
+Once a bot has been designed and trained, we associate a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) to it. We call it [Myrmidon](https://en.wikipedia.org/wiki/Myrmidons). We develop a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp) to manage and store it. The Dapp interacts with the [Solana](https://solana.com/) blockchain, and we are working exclusively with the smart contracts to guarantee verified data. The NFT certifies several properties of the bot: 
 
 - Ownership. The NFT is linked to the public address of the creator and can be sold on Myrill's marketplace. 
-- Statistical Model and meta-parameters checksum.The data itself is stored on Solana and thus cannot be modified any longer.
+- Statistical Model and meta-parameters checksum. The data itself is stored on Solana and thus cannot be modified any longer.
 - Performances. We record on the blockchain simulation performances, and the bot's trades during live trading.
 
 This certification mechanism unlocks a market for true and unaltered trading bots. This way, users can rent, buy, or invest into myrmidons without having to worry about scam and performance issues.
 
 ## User story
 
-Myrill is a ML as a service (MLaS) platform. User interact with a web interface or a mobile app in order to design, train and evaluate a trading bot. The figure bellow shows each step of the user story: 
+Myrill is an ML as a service (MLaaS). User interact with a web interface or a mobile app in order to design, train and evaluate a trading bot. The figure bellow shows each step of the user story: 
 
 ![User story](assets/images/user-story.png)
 
@@ -80,7 +79,7 @@ It goes as follow:
 1. First, the user construct a bot graph (using no-code or SDK), specifying preferences (instrument, exchange, behavior, risk, data ...) and for more advanced user, meta-parameters (learning rate, gamma ...).
 2. Then we compile the graph to create the bot, and the bot is trained in simulation.
 3. Then a Myrmidon NFT is linked to the bot.
-4. Finally the user is given four options:
+4. Finally, the user is given four options:
    - Prop trading: use his bot to generate passive income.
    - Copy trading: generate income for his bot and extra income from copycat traders.
    - Pooling: use his bot to trade with the funds of other users.
