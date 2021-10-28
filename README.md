@@ -16,11 +16,11 @@ We are engineers by training.
 Nicolas Carrara is a postdoctoral researcher at the University of Toronto specialized in real life application of RL, including dialogue systems, autonomous driving, and traffic signal control. He is also specialized in transfer learning, safe RL, and multi-agents RL (MARL). He has published at international conferences including [NeurIPS](https://papers.nips.cc/paper/2019/hash/4fe5149039b52765bde64beb9f674940-Abstract.html) and [UAI](https://sites.google.com/view/rl-uai2018/schedule?authuser=0) on applied RL in collaboration with [Google Brain](https://research.google/pubs/pub48547/) and [Microsoft Research](https://www.microsoft.com/en-us/research/publication/budgeted-reinforcement-learning-in-continuous-state-space/). 
 <br>
 
-<a href="https://www.linkedin.com/in/bachir-arif-aa0764b2/">
 <div style="float: left; margin-right: 10px">
+<a href="https://www.linkedin.com/in/bachir-arif-aa0764b2/">
    <img  src="https://myrill.io/assets/img/team/bachir-arif.jpeg" width="48">
-</div> 
 </a>
+</div> 
 
 Bachir Arif is tech lead at the Société Générale. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. At [LIST](https://www.list.lu/) he did research on [blockchains](https://en.wikipedia.org/wiki/Blockchain), especially in crypto-currencies. While being at Deloitte, he developed multiples [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp).
 
