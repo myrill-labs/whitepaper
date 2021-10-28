@@ -1,6 +1,6 @@
 ## <img  src="https://myrill.io/assets/img/logo/logo.svg" width="24"> Introduction 
 It is time for small investors and retail traders to leverage the state-of-the-art technology used in hedge funds. We offer a no-code platform for [automatic trading system](https://en.wikipedia.org/wiki/Automated_trading_system) (ATS) designed with the algorithms used in most recent breakthroughs in AI ([GO](https://deepmind.com/research/case-studies/alphago-the-story-so-far), [DotA 2](https://openai.com/five/), [Starcraft II](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) etc). 
-Usually, such strategies are manually designed by experts with a set of intricate rules. Our technology, based on [Reinforcement Learning](http://incompleteideas.net/book/the-book.html) (RL) - a subset of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) - derives those rules optimally from data with zero effort. Our platform facilitates the training and testing of the bots (_or agents_) in unknown conditions, certify its performances, and because trading is not about creating a one-fits-all strategy, the user can also monitor and update its bots. Finally, the user can sell his bot or even scale his bots earnings using [copy trading](https://en.wikipedia.org/wiki/Copy_trading), or [pooling](https://www.investopedia.com/terms/p/pooledfunds.asp).
+Usually, such strategies are manually designed by experts with a set of intricate rules. Our technology, based on [Reinforcement Learning](http://incompleteideas.net/book/the-book.html) (RL) - a subset of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) - derives those rules optimally from data with zero effort. Our platform facilitates the training and testing of the bots (_or agents_) in unknown conditions, certifying its performances, and because trading is not about creating a one-fits-all strategy, the user can also monitor and update his bots. Finally, the user can sell his bots or even scale his earnings using [copy trading](https://en.wikipedia.org/wiki/Copy_trading), or [pooling](https://www.investopedia.com/terms/p/pooledfunds.asp).
 
 
 ## Team 
@@ -8,18 +8,22 @@ Usually, such strategies are manually designed by experts with a set of intricat
 We are engineers by training. 
 
 <div style="float: left; margin-right: 10px">
+<a href="https://www.linkedin.com/in/ncarrara">
    <img  src="https://myrill.io/assets/img/team/nicolas-carrara.jpeg" width="48">
+</a>
 </div> 
 
-Nicolas Carrara is a postdoctoral researcher at the University of Toronto specialized in real life application of RL, including dialogue systems, autonomous driving, and traffic signal control. He is also specialized in transfer learning, safe RL, and multi-agents RL (MARL). 
+Nicolas Carrara is a postdoctoral researcher at the University of Toronto specialized in real life application of RL, including dialogue systems, autonomous driving, and traffic signal control. He is also specialized in transfer learning, safe RL, and multi-agents RL (MARL). He has published at international conferences including [NeurIPS](https://papers.nips.cc/paper/2019/hash/4fe5149039b52765bde64beb9f674940-Abstract.html) and [UAI](https://sites.google.com/view/rl-uai2018/schedule?authuser=0) on applied RL in collaboration with [Google Brain](https://research.google/pubs/pub48547/) and [Microsoft Research](https://www.microsoft.com/en-us/research/publication/budgeted-reinforcement-learning-in-continuous-state-space/). 
 <br>
 
+<a href="https://www.linkedin.com/in/bachir-arif-aa0764b2/">
 <div style="float: left; margin-right: 10px">
    <img  src="https://myrill.io/assets/img/team/bachir-arif.jpeg" width="48">
 </div> 
+</a>
 
 
-Bachir Arif is tech lead at the Société Générale and has research experience in [blockchain](https://en.wikipedia.org/wiki/Blockchain), especially with crypto-currencies. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. 
+Bachir Arif is tech lead at the Société Générale and has research experience in [blockchains](https://en.wikipedia.org/wiki/Blockchain), especially with crypto-currencies. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. While being at Deloitte, he developed multiples [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp) around the blockchain and DeFi.
 
 We both bring to the company a combination of cutting edge technologies and domain expertise in order to design the perfect fintech product, with an extremely high barrier of entry (ML and blockchain).
   
@@ -61,7 +65,7 @@ Our architecture supports market-making (providing liquidity, i.e. enough instru
 
 ### Blockchain certification
 
-Once a bot has been designed and trained, we associate a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) to it. We call it [Myrmidon](https://en.wikipedia.org/wiki/Myrmidons). We develop a [decentralized application](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp) to manage and store it. The Dapp interacts with the [Solana](https://solana.com/) blockchain, and we are working exclusively with the smart contracts to guarantee verified data. The NFT certifies several properties of the bot: 
+Once a bot has been designed and trained, we associate a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) to it. We call it [Myrmidon](https://en.wikipedia.org/wiki/Myrmidons). We develop a Dapp to manage and store it. The Dapp interacts with the [Solana](https://solana.com/) blockchain, and we are working exclusively with the smart contracts to guarantee verified data. The NFT certifies several properties of the bot: 
 
 - Ownership. The NFT is linked to the public address of the creator and can be sold on Myrill's marketplace. 
 - Statistical Model and meta-parameters checksum. The data itself is stored on Solana and thus cannot be modified any longer.
@@ -92,5 +96,6 @@ We are selling 100 myrmidons NFT, 10 each week from October to January. Each myr
 - early access to the no-code platform.
 - access to the restricted slack with direct support from ML engineers, quants and traders. Note that a public discord is available at this url.
 
+Each myrmidon has a unique investor profile. Some will trade only on Coinbase, some will use alternative data, some will do market making etc. Myrmidon#1 will be the first to be available for live trading in June 2022, then others will be release each month from June 2022 to May 2023.
 
-Each myrmidon has a unique investor profile. Some will trade only on Coinbase, some will use alternative data, some will do market making etc. Myrmidon#1 will be the first to be available for live trading in June 2022, then others will be release each month from June 2022 to May 2023. 
+The marketplace is available at this url.
