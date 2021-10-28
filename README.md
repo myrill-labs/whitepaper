@@ -1,5 +1,5 @@
 ## <img  src="https://myrill.io/assets/img/logo/logo.svg" width="24"> Introduction 
-It is time for small investors and retail traders to leverage the state-of-the-art technology used in hedge funds. We offer a no-code platform for [automatic trading system](https://en.wikipedia.org/wiki/Automated_trading_system) (ATS) designed with the algorithms used in most recent breakthroughs in AI ([GO](https://deepmind.com/research/case-studies/alphago-the-story-so-far), [DotA 2](https://openai.com/five/), [Starcraft II](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) etc). 
+It is time for small investors and retail traders to leverage the state-of-the-art technology used in hedge funds. We offer a no-code platform for [automatic trading system](https://en.wikipedia.org/wiki/Automated_trading_system) (ATS) designed with the algorithms used in most recent breakthroughs in AI ([GO](https://deepmind.com/research/case-studies/alphago-the-story-so-far), [DotA 2](https://openai.com/five/), [Starcraft II](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) etc). We tackle the [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) challenge.
 Usually, such strategies are manually designed by experts with a set of intricate rules. Our technology, based on [Reinforcement Learning](http://incompleteideas.net/book/the-book.html) (RL) - a subset of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) - derives those rules optimally from data with zero effort. Our platform facilitates the training and testing of the bots (_or agents_) in unknown conditions, certifying its performances, and because trading is not about creating a one-fits-all strategy, the user can also monitor and update his bots. Finally, the user can sell his bots or even scale his earnings using [copy trading](https://en.wikipedia.org/wiki/Copy_trading), or [pooling](https://www.investopedia.com/terms/p/pooledfunds.asp).
 
 
@@ -22,7 +22,6 @@ Nicolas Carrara is a postdoctoral researcher at the University of Toronto specia
 </div> 
 </a>
 
-
 Bachir Arif is tech lead at the Société Générale. Through his career, he has built a network of finance professionals including traders, portfolio managers and quants. At [LIST](https://www.list.lu/) he did research on [blockchains](https://en.wikipedia.org/wiki/Blockchain), especially in crypto-currencies. While being at Deloitte, he developed multiples [decentralized applications](https://en.wikipedia.org/wiki/Decentralized_application) (Dapp).
 
 We both bring to the company a combination of cutting edge technologies and domain expertise in order to design the perfect fintech product, with an extremely high barrier of entry (ML and blockchain).
@@ -40,7 +39,7 @@ If your trading strategy was optimal yesterday, it might be not the case today. 
 
 ### Nobody trusts trading bots
 
-In order to generate passive income, retail investors might be tempted to buy or rent a trading bot, or follow a trader on Telegram or Discord. It is simply impossible to discriminate between scams and legit services. In the telegram space, it is not uncommon that  influencer traders encourage their followers to buy a particular stock for their own profit (see pump and dump). The bot market is saturated with offer promising high yield and unrealistic performances. Those bots might perform worse than the S&P500. This fallacy is particularly true in the crypto market, where the bullish trend (meaning the currency value is mostly increasing) gives the illusion that all strategies perform well. Trading is about [_alpha_](https://www.investopedia.com/terms/a/alpha.asp), meaning how much better the strategy performs against the overall market. At Myrill.io, we intend to certify bots' _alpha_ and bots' origin using the blockchain-related technologies.
+In order to generate passive income, retail investors might be tempted to buy or rent a trading bot, or follow a trader on Telegram or Discord. It is simply impossible to discriminate between scams and legit services. In the telegram space, it is not uncommon that  influencer traders encourage their followers to buy a particular stock for their own profit (see pump and dump). The bot market is saturated with offer promising high yield and unrealistic performances. Those bots might perform worse than the S&P500. This fallacy is particularly true in the crypto market, where the bullish trend (meaning the currency value is mostly increasing) gives the illusion that all strategies perform well. Trading is about [_alpha_](https://www.investopedia.com/terms/a/alpha.asp), meaning how much better the strategy performs against the overall market. At Myrill.io, we intend to certify bots' _alpha_ and bots' origin using blockchain-related technologies.
 
 
 ## The solution
@@ -94,7 +93,7 @@ It goes as follow:
 We are selling 100 myrmidons NFT, 10 each week from October to January. Each myrmidon unlocks several perks:
 - unique access to a pre-configured and pre-trained bot.
 - early access to the no-code platform.
-- access to the restricted slack with direct support from ML engineers, quants and traders. Note that a public discord is available at this url.
+- access to the restricted slack with direct support from ML engineers, quants and traders. Note that a public discord is available at [this url](https://myrill.io/discord-link).
 
 Each myrmidon has a unique investor profile. Some will trade only on Coinbase, some will use alternative data, some will do market making etc. Myrmidon#1 will be the first to be available for live trading in June 2022, then others will be release each month from June 2022 to May 2023.
 
