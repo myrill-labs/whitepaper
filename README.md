@@ -13,7 +13,7 @@ We are engineers by training.
 </a>
 </div> 
 
-Nicolas Carrara is a postdoctoral researcher at the University of Toronto specialized in real life application of RL, including dialogue systems, autonomous driving, and traffic signal control. He is also specialized in transfer learning, safe RL, and multi-agents RL (MARL). He has published at international conferences including [NeurIPS](https://papers.nips.cc/paper/2019/hash/4fe5149039b52765bde64beb9f674940-Abstract.html) and [UAI](https://sites.google.com/view/rl-uai2018/schedule?authuser=0) on applied RL in collaboration with [Google Brain](https://research.google/pubs/pub48547/) and [Microsoft Research](https://www.microsoft.com/en-us/research/publication/budgeted-reinforcement-learning-in-continuous-state-space/). 
+Nicolas Carrara is a postdoctoral researcher at the University of Toronto specialized in real life application of RL, including dialogue systems, autonomous driving, and traffic signal control. He is also specialized in transfer learning, safe RL, and multi-agents RL (MARL). He has published at international conferences including [NeurIPS](https://papers.nips.cc/paper/2019/hash/4fe5149039b52765bde64beb9f674940-Abstract.html) and [UAI](https://sites.google.com/view/rl-uai2018/schedule?authuser=0). He did several collaborations with industry including Google, Microsoft and Huawei.
 <br>
 
 <div style="float: left; margin-right: 10px">
