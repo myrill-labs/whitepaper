@@ -97,4 +97,4 @@ We are selling 100 myrmidons NFT, 10 each week from October to January. Each myr
 
 Each myrmidon has a unique investor profile. Some will trade only on Coinbase, some will use alternative data, some will do market making etc. Myrmidon#1 will be the first to be available for live trading in June 2022, then others will be release each month from June 2022 to May 2023.
 
-The marketplace is available at this url.
+The marketplace is available at [this url](https://myrill.io/myrmidons).
