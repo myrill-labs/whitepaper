@@ -90,7 +90,7 @@ It goes as follow:
 
 ## About the 100 myrmidons pre sale
 
-We are selling 100 myrmidons NFT, 10 each week from October to January. Each myrmidon unlocks several perks:
+We are selling 100 myrmidons NFT, 10 each week starting the 1st of December. Each myrmidon unlocks several perks:
 - unique access to a pre-configured and pre-trained bot.
 - early access to the no-code platform.
 - access to the restricted slack with direct support from ML engineers, quants and traders. Note that a public discord is available at [this url](https://myrill.io/discord-link).
