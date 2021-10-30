@@ -58,7 +58,7 @@ The pipeline includes several modules, each of them can be customized, see the f
 4. Augmented simulation using self-play.
 5. Back-testing, paper trading and live trading.
 
-Existing solutions in most recent fintech trading startups (including Y-Combinator backed startups) usually provides 1 and 5. The module 2 and 3 must be designed by hand using a set of rules and indicators. Some specialized companies provide 2, and we intend to integrate their services and offer our own. Nobody provides 3 and 4 as far as we know. Some companies offer black-box bots services, but are rule-based strategies under the hood (hence non-optimal). 
+Existing solutions in most recent fintech trading startups (including Y-Combinator backed startups) usually provides 5 and a limited version of 1 (no alternative data). The module 2 and 3 must be designed by hand using a set of rules and indicators. Some specialized companies provide 2, and we intend to integrate their services and offer our own. Nobody provides 3 and 4 as far as we know. Some companies offer black-box bots services, but are rule-based strategies under the hood (hence non-optimal). 
 
 Our architecture supports market-making (providing liquidity, i.e. enough instruments to be sold or bought on an exchange), arbitrage (buy 5 BTC on Binance and sell 5 BTC on Coinbase) and directional (price is going up, I buy).
 
