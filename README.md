@@ -75,7 +75,7 @@ Our architecture supports market-making (providing liquidity, i.e. enough instru
 Once a bot has been designed and trained, we associate a [Non-Fungible Token](https://en.wikipedia.org/wiki/Non-fungible_token) (NFT) to it. We call it [Myrmidon](https://en.wikipedia.org/wiki/Myrmidons). We develop a Dapp to manage and store it. The Dapp interacts with the [Solana](https://solana.com/) blockchain, and we are working exclusively with smart contracts to guarantee verified data. The NFT certifies several properties of the bot: 
 
 - Ownership. The NFT is linked to the public address of the creator and can be sold on [Myrill's marketplace](https://myrill.io/myrmidons). 
-- Statistical Model and meta-parameters checksum. The data itself is stored on Solana and thus cannot be modified any longer.
+- Statistical Model and meta-parameters. The checksum is stored on Solana and thus the agent behavior can be certified.
 - Performances. We record on the blockchain simulation performances, and the bot's trades during live trading.
 
 This certification mechanism unlocks a market for true and unaltered trading bots. This way, users can rent, buy, or invest into myrmidons without having to worry about scams and performance issues.
