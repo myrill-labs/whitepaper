@@ -1,6 +1,10 @@
+
+<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.ico?">
+
+<img  src="https://myrill.io/assets/img/logo/logo.svg" width="48">
 # [Myrill.io](https://myrill.io) whitepaper 
 
-## <img  src="https://myrill.io/assets/img/logo/logo.svg" width="24"> Introduction 
+##  Introduction 
 It is time for small investors and retail traders to leverage the state-of-the-art technology used in hedge funds. We offer a no-code platform for [automatic trading system](https://en.wikipedia.org/wiki/Automated_trading_system) (ATS) designed with the algorithms used in most recent breakthroughs in AI ([GO](https://deepmind.com/research/case-studies/alphago-the-story-so-far), [DotA 2](https://openai.com/five/), [Starcraft II](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning) etc). We first tackle the [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) domain.
 Usually, such strategies are manually designed by experts with a set of intricate rules. Our technology, based on [Reinforcement Learning](http://incompleteideas.net/book/the-book.html) (RL) - a subset of [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) (ML) - derives those rules optimally from data with zero effort. Our platform facilitates the training and testing of the bots (_or agents_) in unknown conditions, certifying its performances, and because trading is not about creating a one-fits-all strategy, the user can also monitor and update his bots. Finally, the user can sell his bots or even scale his earnings using [copy trading](https://en.wikipedia.org/wiki/Copy_trading), or [pooling](https://www.investopedia.com/terms/p/pooledfunds.asp).
 
