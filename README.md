@@ -1,6 +1,4 @@
 
-<link rel="shortcut icon" type="image/x-icon" href="./assets/favicon.ico?">
-
 <img  src="https://myrill.io/assets/img/logo/logo.svg" width="48">
 # [Myrill.io](https://myrill.io) whitepaper 
   
