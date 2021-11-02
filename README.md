@@ -1,4 +1,4 @@
-<img  src="https://myrill.io/assets/img/logo/logo.svg" width="48">
+<img  src="https://myrill.io/assets/img/logo/logo.svg" width="64">
 # [Myrill.io](https://myrill.io) whitepaper 
   
 ##  Introduction 
